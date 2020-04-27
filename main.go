@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	_ "../PlatformServer/cache"
+	// _ "../PlatformServer/cache"
 	_ "../PlatformServer/database"
 
 	routes "../PlatformServer/router"
